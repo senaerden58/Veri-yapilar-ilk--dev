@@ -1,0 +1,1 @@
+# Veri-yapilar-ilk-dev
